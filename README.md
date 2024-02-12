@@ -19,5 +19,5 @@ To predict the approximate insurance cost based upon the rest of the features pr
 # Outcome:
 It predicts the approximate insurance cost based upon the features provided for each individual. It is a Regression problem. The algorithm used in this project is Linear Regression. Executed the steps like Data preprocessing, Feature selection, Model Building, Evaluation & Tuning.
 
-# Conclusion
+# Conclusion:
 Performed Base Linear Regression and Tuned using Ridge & Lasso Techniques. Out of Both, Ridge is giving the lowest RMSE (0.48) and R-Squared (0.709), Adj-R Squared (0.709) are Closed to each other.

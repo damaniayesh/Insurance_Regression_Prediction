@@ -1,4 +1,4 @@
-# Insurance_Regression_Prediction
+# Insurance_Prediction_Regression
 The project provides a Regression on the Insurance Prediction Data which shows the features of individuals, tuned using Ridge &amp; Lasso.
 
 # Consider the data present in the Insurance dataset file.
